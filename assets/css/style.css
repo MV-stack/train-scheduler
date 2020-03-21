@@ -1,6 +1,10 @@
 .jumbotron {
+    /*background-image: url(../images/train-4256985_640.jpg);
+    background-repeat: no-repeat;
+    background-size: 80% 100%;*/
     background-color: rgb(37, 36, 36);
-    color:silver
+    color:silver;
+    
 }
 
 panel {
