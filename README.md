@@ -6,8 +6,8 @@ In this assignment, you'll create a train schedule application that incorporates
 
 ### Links
 
-  * [Train Scheduler link](https://mv-stack.github.io/train-scheduler/)
-  * [Train Scheduler Repo](https://github.com/MV-stack/train-scheduler)
+  * [Train Scheduler link](https://mv-stack.github.io/train-scheduler/){target="_blank"}
+  * [Train Scheduler Repo](https://github.com/MV-stack/train-scheduler){target="_blank"}
 
 
 ### Instructions
